@@ -1,0 +1,1 @@
+This C program encodes and decodes text files using a custom encryption method. For encoding, it shifts digits and modifies alphabetic characters based on preceding ones. For decoding, it reverses the encoding process. The program handles file I/O and provides options for the user to choose between encoding or decoding operations.
